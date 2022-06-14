@@ -1,7 +1,7 @@
 # Личный проект «PlayHTML»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/email/1/user/2105575).
-* Наставник: `Неизвестно`.
+* Студент: [AliyaYa](https://up.htmlacademy.ru/email/1/user/2118643).
+* Наставник: Twilight Sparkle
 
 ---
 
@@ -18,7 +18,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-email/2105575-play-html-1) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/htmlacademy-email/2118643-play-html-1) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/8537950/86925696-d8a1cb00-c139-11ea-8b59-ce23b136a6cf.png">
 
