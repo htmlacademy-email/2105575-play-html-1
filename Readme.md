@@ -1,7 +1,7 @@
 # Личный проект «PlayHTML»
 
 * Студент: [AliyaYa](https://up.htmlacademy.ru/email/1/user/2118643).
-* Наставник: Twilight Sparkle
+* Наставник: Twilight 😐 Sparkle (https://up.htmlacademy.ru/profile/id1564387)
 
 ---
 
